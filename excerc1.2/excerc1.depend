@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1746808540 source:c:\users\mochis\desktop\nova pasta\excerc1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"excerc.h"
+
+1746808464 source:c:\users\mochis\desktop\nova pasta\excerc1\excerc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"excerc.h"
+
+1746808360 c:\users\mochis\desktop\nova pasta\excerc1\excerc.h
+
+1746811477 source:c:\users\mochis\desktop\trabalho ed_2\excerc1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"excerc.h"
+
+1746811284 c:\users\mochis\desktop\trabalho ed_2\excerc1\excerc.h
+
+1746811747 source:c:\users\mochis\desktop\trabalho ed_2\excerc1\excerc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"excerc.h"
+
+1746822017 source:c:\users\mochis\desktop\trabalho ed_2\excerc1.2\excerc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"excerc.h"
+
+1746822018 c:\users\mochis\desktop\trabalho ed_2\excerc1.2\excerc.h
+
+1746822033 source:c:\users\mochis\desktop\trabalho ed_2\excerc1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"excerc.h"
+
